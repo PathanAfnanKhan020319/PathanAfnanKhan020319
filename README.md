@@ -24,6 +24,17 @@ Explore:
 - **Slide Narrator — Multimodal AI** — multimodal content understanding and narration workflow.
 - **GWEN AI Workflow Automation** — AI-powered automation and data workflows built around APIs, orchestration, and production services.
 
+## Selected Public Repositories
+
+- **AI-Driven Automated Interviewer** — https://github.com/PathanAfnanKhan020319/AI-Interviewer-
+- **Resume Analysis Workflow with LangGraph** — https://github.com/PathanAfnanKhan020319/resume-analyzer1
+- **Leave Policy AI Agent** — https://github.com/PathanAfnanKhan020319/leave-policy-agent
+- **Voice Scheduling Agent** — https://github.com/PathanAfnanKhan020319/voice-scheduling-agent
+- **Intelligent Invoice Data Extraction** — https://github.com/PathanAfnanKhan020319/Invoice-Exctraction--Pathan-Afnan-Khan
+- **Text-to-SQL Data Query Assistant** — https://github.com/PathanAfnanKhan020319/text-to-sql-query-assignment-by-pathan-afnan-khan
+
+More case studies: https://pathan-afnan-khan.vercel.app/projects
+
 ## Technical Focus
 
 **AI / LLMs:** LangChain, LangGraph, LlamaIndex, Pydantic AI, AutoGen, CrewAI, MCP, Hugging Face  
