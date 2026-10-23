@@ -1,8 +1,8 @@
 # Pathan Afnan Khan
 
-**AI Engineer • Data Scientist • Agentic AI Engineer**
+**Data Scientist 2 @ Hyland • AI Engineer • Data Scientist • Agentic AI Engineer**
 
-I build production-oriented AI systems across **Agentic AI, Generative AI, LLMs, RAG, Machine Learning, MLOps, and cloud AI platforms**.
+Currently working as a **Data Scientist 2 at Hyland**, while building production-oriented AI systems across **Agentic AI, Generative AI, LLMs, RAG, Machine Learning, MLOps, and cloud AI platforms**.
 
 My work focuses on turning AI ideas into reliable systems: multi-agent workflows, retrieval pipelines, evaluation and observability, intelligent automation, multimodal applications, and production deployment.
 
@@ -59,6 +59,7 @@ I write about building reliable production AI systems:
 
 - **LinkedIn:** https://www.linkedin.com/in/afnan-khan4/
 - **GitHub:** https://github.com/PathanAfnanKhan020319
+- **X:** https://x.com/AfnanKhan
 - **Portfolio:** https://pathan-afnan-khan.vercel.app/
 
 ---
