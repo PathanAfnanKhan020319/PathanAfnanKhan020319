@@ -55,6 +55,18 @@ I write about building reliable production AI systems:
 - LLM Observability for Production AI  
   https://pathan-afnan-khan.vercel.app/articles/llm-observability-production-ai
 
+## Independent AI Publications
+
+Five self-published technical journals by Pathan Afnan Khan:
+
+- **Applied AI Engineering:** https://afnan-ai-engineering.vercel.app/
+- **Agentic Systems:** https://afnan-agentic-systems.vercel.app/
+- **RAG Research:** https://afnan-rag-research.vercel.app/
+- **MLOps Field Notes:** https://afnan-mlops-fieldnotes.vercel.app/
+- **Technology Vision:** https://afnan-tech-vision.vercel.app/
+
+Browse the full publication network: https://pathan-afnan-khan.vercel.app/publications
+
 ## Connect
 
 - **LinkedIn:** https://www.linkedin.com/in/afnan-khan4/
